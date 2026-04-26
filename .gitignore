@@ -1,4 +1,4 @@
-score_annotation_export/score_crops/
+
 election_data/
 intermediate_batch_output/per_file_json/
 models/
@@ -6,5 +6,4 @@ venv/
 .venv/
 __pycache__/
 *.pyc
-score_ocr_results*.csv
 score_ocr_checkpoint.csv
