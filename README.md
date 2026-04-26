@@ -12,16 +12,21 @@ This project extracts vote scores from Thai election forms using OCR.
 
 ## 📂 Structure
 
-
-score_ocr/ # OCR logic
-run_score_ocr.py # main script
-
-score_annotation_export/
-├── score_annotation_manifest.json # mapping image ↔ record
-└── sample_score_crops/ # sample images
-
-score_ocr_results.csv # output
-
+```
+Thailand_Election_2026/
+├── score_ocr/ # OCR logic
+│ ├── client.py
+│ ├── utils.py
+│ └── config.py
+│
+├── run_score_ocr.py # main script
+│
+├── score_annotation_export/
+│ ├── score_annotation_manifest.json # mapping image ↔ record
+│ └── sample_score_crops/ # sample images
+│
+└── score_ocr_results.csv # output
+```
 ---
 
 ## 🎯 Use case
