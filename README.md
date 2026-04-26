@@ -11,6 +11,8 @@ This project extracts vote scores from Thai election forms using OCR.
 ---
 
 ## 📂 Structure
+
+
 score_ocr/ # OCR logic
 run_score_ocr.py # main script
 
@@ -32,19 +34,19 @@ The output can be used to:
 
 ## 🚀 How to run
 1. Install dependencies
-
+```
 pip install -r requirements.txt
-
+```
 
 2. Run model (Ollama)
-
+```
 ollama run qwen2.5vl:7b
-
+```
 
 3. Run OCR
-
+```
 python run_score_ocr.py
-
+```
 
 ---
 
