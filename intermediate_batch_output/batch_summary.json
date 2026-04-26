@@ -1,0 +1,6 @@
+{
+  "num_inputs": 625,
+  "num_success": 625,
+  "num_failed": 0,
+  "output_dir": "intermediate_batch_output"
+}

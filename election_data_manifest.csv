@@ -1,0 +1,626 @@
+﻿dataset_index,source_file,source_basename,source_parent,form_type,matched_intermediate,batch_index,record_id,review_required,num_rows,output_form_type
+0,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 1\ส.ส.5_17 บช ชุดที่ 1.pdf,ส.ส.5_17 บช ชุดที่ 1.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 1,party_list,True,0,file_00000,True,10,party_list
+1,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 2\ส.ส.5_17 บช ชุดที่ 2.pdf,ส.ส.5_17 บช ชุดที่ 2.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 2,party_list,True,1,file_00001,True,9,party_list
+2,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 3\ส.ส.5_17 บช ชุดที่ 3.pdf,ส.ส.5_17 บช ชุดที่ 3.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 3,party_list,True,2,file_00002,True,10,party_list
+3,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 4\ส.ส.5_17 บช ชุดที่ 4.pdf,ส.ส.5_17 บช ชุดที่ 4.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 4,party_list,True,3,file_00003,True,9,party_list
+4,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 5\ส.ส.5_17 บช ขุดที่ 5.pdf,ส.ส.5_17 บช ขุดที่ 5.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 5,party_list,True,4,file_00004,True,8,party_list
+5,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 7\ส.ส.5_17 บช ชุดที่ 7.pdf,ส.ส.5_17 บช ชุดที่ 7.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 7,party_list,True,5,file_00005,True,10,party_list
+6,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 8\ส.ส.5_17 บช ชุดที่ 8.pdf,ส.ส.5_17 บช ชุดที่ 8.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 8,party_list,True,6,file_00006,True,10,party_list
+7,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 9\ส.ส.5_17 บช ชุดที่ 9.pdf,ส.ส.5_17 บช ชุดที่ 9.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่ 9,party_list,True,7,file_00007,True,10,party_list
+8,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่6\ส.ส.5_17 บช ชุดที่ 6.pdf,ส.ส.5_17 บช ชุดที่ 6.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 (บช) ชุดที่6,party_list,True,8,file_00008,True,8,party_list
+9,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 1\ส.ส.5_17 ชุดที่ 1.pdf,ส.ส.5_17 ชุดที่ 1.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 1,constituency,True,9,file_00009,True,0,constituency
+10,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 2\ส.ส.5_17 ชุดที่ 2.pdf,ส.ส.5_17 ชุดที่ 2.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 2,constituency,True,10,file_00010,True,0,constituency
+11,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 3\ส.ส.5_17 ชุดที่ 3.pdf,ส.ส.5_17 ชุดที่ 3.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 3,constituency,True,11,file_00011,True,0,constituency
+12,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 4\ส.ส.5_17 ชุดที่ 4.pdf,ส.ส.5_17 ชุดที่ 4.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 4,constituency,True,12,file_00012,True,0,constituency
+13,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 5\ส.ส.5_17 ชุดที่ 5.pdf,ส.ส.5_17 ชุดที่ 5.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 5,constituency,True,13,file_00013,True,0,constituency
+14,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 8\ส.ส.5_17 ชุดที่ 8.pdf,ส.ส.5_17 ชุดที่ 8.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 8,constituency,True,14,file_00014,True,0,constituency
+15,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 9\ส.ส.5_17 ชุดที่ 9.pdf,ส.ส.5_17 ชุดที่ 9.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่ 9,constituency,True,15,file_00015,True,5,constituency
+16,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่6\ส.ส.5_17 ชุดที่ 6.pdf,ส.ส.5_17 ชุดที่ 6.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่6,constituency,True,16,file_00016,True,0,constituency
+17,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่7\ส.ส.5_17 ชุดที่ 7.pdf,ส.ส.5_17 ชุดที่ 7.pdf,election_data\ล่วงหน้านอกเขตเลือกตั้งและนอกราชอาณาจักร\ส.ส.5-17 ชุดที่7,constituency,True,17,file_00017,True,0,constituency
+18,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 1\สส 5_18 บช หน่วยที่1.pdf,สส 5_18 บช หน่วยที่1.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 1,party_list,True,18,file_00018,True,9,party_list
+19,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 1\สส 5_18 หน่วยที่1.pdf,สส 5_18 หน่วยที่1.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 1,constituency,True,19,file_00019,True,6,constituency
+20,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 10\สส5_18 บช หน่วยที่10.pdf,สส5_18 บช หน่วยที่10.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 10,party_list,True,20,file_00020,True,11,party_list
+21,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 10\สส5_18 หน่วยที่10.pdf,สส5_18 หน่วยที่10.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 10,constituency,True,21,file_00021,True,2,constituency
+22,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 11\สส 5_18 บช หน่วยที่11.pdf,สส 5_18 บช หน่วยที่11.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 11,party_list,True,22,file_00022,True,10,party_list
+23,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 11\สส5_18 หน่วยที่11.pdf,สส5_18 หน่วยที่11.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 11,constituency,True,23,file_00023,True,5,constituency
+24,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 2\สส 5_18 หน่วยที่2.pdf,สส 5_18 หน่วยที่2.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 2,constituency,True,24,file_00024,True,0,constituency
+25,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 2\สส5_18 บช หน่วยที่2.pdf,สส5_18 บช หน่วยที่2.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 2,party_list,True,25,file_00025,True,11,party_list
+26,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 3\สส 5_18 บช หน่วยที่3.pdf,สส 5_18 บช หน่วยที่3.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 3,party_list,True,26,file_00026,True,11,party_list
+27,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 3\สส 5_18 หน่วยที่3.pdf,สส 5_18 หน่วยที่3.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 3,constituency,True,27,file_00027,True,6,constituency
+28,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 4\สส 5_18 หน่วยที่4.pdf,สส 5_18 หน่วยที่4.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 4,constituency,True,28,file_00028,True,6,constituency
+29,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 4\สส5_18 บช หน่วยที่4.pdf,สส5_18 บช หน่วยที่4.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 4,party_list,True,29,file_00029,True,11,party_list
+30,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 5\สส 5_18 บช หน่วยที่5.pdf,สส 5_18 บช หน่วยที่5.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 5,party_list,True,30,file_00030,True,11,party_list
+31,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 5\สส 5_18 หน่วยที่5.pdf,สส 5_18 หน่วยที่5.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 5,constituency,True,31,file_00031,True,5,constituency
+32,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 6\สส 5_18 บช หน่วยที่6.pdf,สส 5_18 บช หน่วยที่6.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 6,party_list,True,32,file_00032,True,10,party_list
+33,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 6\สส 5_18 หน่วยที่6.pdf,สส 5_18 หน่วยที่6.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 6,constituency,True,33,file_00033,True,4,constituency
+34,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 7\สส 5_18 บช หน่วยที่7.pdf,สส 5_18 บช หน่วยที่7.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 7,party_list,True,34,file_00034,True,8,party_list
+35,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 7\สส 5_18 หน่วยที่7.pdf,สส 5_18 หน่วยที่7.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 7,constituency,True,35,file_00035,True,6,constituency
+36,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 8\สส 5_18 หน่วยที่8.pdf,สส 5_18 หน่วยที่8.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 8,constituency,True,36,file_00036,True,5,constituency
+37,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 8\สส5_18 บช หน่วยที่8.pdf,สส5_18 บช หน่วยที่8.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 8,party_list,True,37,file_00037,True,5,party_list
+38,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 9\สส 5_18 หน่วยที่9.pdf,สส 5_18 หน่วยที่9.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 9,constituency,True,38,file_00038,True,4,constituency
+39,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 9\สส5_18 บช หน่วยที่9.pdf,สส5_18 บช หน่วยที่9.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลกุดเรือ\หน่วยที่ 9,party_list,True,39,file_00039,True,11,party_list
+40,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 1\สส 5_18 บช หน่วยที่ 1￼.pdf,สส 5_18 บช หน่วยที่ 1￼.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 1,party_list,True,40,file_00040,True,10,party_list
+41,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 1\สส 5_18 หน่วยที่ 1 ศาลาประชาคม ￼.pdf,สส 5_18 หน่วยที่ 1 ศาลาประชาคม ￼.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 1,constituency,True,41,file_00041,True,6,constituency
+42,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 10\สส 5_18 บช หน่วยที่ 10.pdf,สส 5_18 บช หน่วยที่ 10.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 10,party_list,True,42,file_00042,True,10,party_list
+43,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 10\สส 5_18 หน่วยที่ 10.pdf,สส 5_18 หน่วยที่ 10.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 10,constituency,True,43,file_00043,True,6,constituency
+44,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 11\สส 5_18 บช หน่วยที่ 11.pdf,สส 5_18 บช หน่วยที่ 11.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 11,party_list,True,44,file_00044,True,10,party_list
+45,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 11\สส 5_18 หน่วยที่ 11.pdf,สส 5_18 หน่วยที่ 11.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 11,constituency,True,45,file_00045,True,5,constituency
+46,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 2\สส 5_18 บช หน่วยที่ 2.pdf,สส 5_18 บช หน่วยที่ 2.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 2,party_list,True,46,file_00046,True,10,party_list
+47,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 2\สส 5_18 หน่วยที่ 2.pdf,สส 5_18 หน่วยที่ 2.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 2,constituency,True,47,file_00047,True,6,constituency
+48,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 3\สส 5_18 บช หน่วยที่ 3.pdf,สส 5_18 บช หน่วยที่ 3.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 3,party_list,True,48,file_00048,True,10,party_list
+49,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 3\สส 5_18 หน่วยที่ 3.pdf,สส 5_18 หน่วยที่ 3.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 3,constituency,True,49,file_00049,True,6,constituency
+50,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 4\สส 5_18 บช หน่วยที่ 4.pdf,สส 5_18 บช หน่วยที่ 4.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 4,party_list,True,50,file_00050,True,3,party_list
+51,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 4\สส 5_18 หน่วยที่ 4.pdf,สส 5_18 หน่วยที่ 4.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 4,constituency,True,51,file_00051,True,6,constituency
+52,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 5\สส 5_18 บช หน่วยที่ 5.pdf,สส 5_18 บช หน่วยที่ 5.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 5,party_list,True,52,file_00052,True,10,party_list
+53,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 5\สส 5_18 หน่วยที่ 5.pdf,สส 5_18 หน่วยที่ 5.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 5,constituency,True,53,file_00053,True,6,constituency
+54,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 6\สส 5_18 บช หน่วยที่ 6.pdf,สส 5_18 บช หน่วยที่ 6.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 6,party_list,True,54,file_00054,True,10,party_list
+55,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 6\สส 5_18 หน่วยที่ 6.pdf,สส 5_18 หน่วยที่ 6.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 6,constituency,True,55,file_00055,True,6,constituency
+56,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 7\สส 5_18 บช หน่วยที่ 7.pdf,สส 5_18 บช หน่วยที่ 7.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 7,party_list,True,56,file_00056,True,10,party_list
+57,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 7\สส 5_18 หน่วยที่ 7.pdf,สส 5_18 หน่วยที่ 7.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 7,constituency,True,57,file_00057,True,6,constituency
+58,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 8\สส 5_18 บช หน่วยที่ 8.pdf,สส 5_18 บช หน่วยที่ 8.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 8,party_list,True,58,file_00058,True,9,party_list
+59,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 8\สส 5_18 หน่วยที่ 8.pdf,สส 5_18 หน่วยที่ 8.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 8,constituency,True,59,file_00059,True,6,constituency
+60,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 9\สส 5_18 บช หน่วยที่ 9.pdf,สส 5_18 บช หน่วยที่ 9.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 9,party_list,True,60,file_00060,True,10,party_list
+61,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 9\สส 5_18 หน่วย 9.pdf,สส 5_18 หน่วย 9.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาห่อม\หน่วยที่ 9,constituency,True,61,file_00061,True,3,constituency
+62,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 1\สส 5_18 หน่วยที่1.pdf,สส 5_18 หน่วยที่1.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 1,constituency,True,62,file_00062,True,2,constituency
+63,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 1\สส5_18 บช หน่วยที่1.pdf,สส5_18 บช หน่วยที่1.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 1,party_list,True,63,file_00063,True,10,party_list
+64,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 10\สส5_18 บช.pdf,สส5_18 บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 10,party_list,True,64,file_00064,True,12,party_list
+65,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 10\สส5_18.pdf,สส5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 10,constituency,True,65,file_00065,True,5,constituency
+66,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 11\สส5_18 บช.pdf,สส5_18 บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 11,party_list,True,66,file_00066,True,10,party_list
+67,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 11\สส5_18.pdf,สส5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 11,constituency,True,67,file_00067,True,6,constituency
+68,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 2\สส 5_18.pdf,สส 5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 2,constituency,True,68,file_00068,True,6,constituency
+69,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 2\สส5_18 บช.pdf,สส5_18 บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 2,party_list,True,69,file_00069,True,10,party_list
+70,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 3\สส5_18 บช.pdf,สส5_18 บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 3,party_list,True,70,file_00070,True,10,party_list
+71,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 3\สส5_18.pdf,สส5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 3,constituency,True,71,file_00071,True,6,constituency
+72,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 4\สส 5_18 บช.pdf,สส 5_18 บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 4,party_list,True,72,file_00072,True,8,party_list
+73,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 4\สส5_18.pdf,สส5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 4,constituency,True,73,file_00073,True,5,constituency
+74,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 5\สส5_18 บช.pdf,สส5_18 บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 5,party_list,True,74,file_00074,True,10,party_list
+75,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 5\สส5_18.pdf,สส5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 5,constituency,True,75,file_00075,True,5,constituency
+76,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 6\สส5_18.pdf,สส5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 6,constituency,True,76,file_00076,True,6,constituency
+77,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 6\สส5_18บช.pdf,สส5_18บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 6,party_list,True,77,file_00077,True,11,party_list
+78,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 7\สส5_18 บช.pdf,สส5_18 บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 7,party_list,True,78,file_00078,True,10,party_list
+79,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 7\สส5_18.pdf,สส5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 7,constituency,True,79,file_00079,True,2,constituency
+80,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 8\สส 5_18.pdf,สส 5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 8,constituency,True,80,file_00080,True,4,constituency
+81,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 8\สส5_18 บช.pdf,สส5_18 บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 8,party_list,True,81,file_00081,True,11,party_list
+82,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 9\สส 5_18 บช.pdf,สส 5_18 บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 9,party_list,True,82,file_00082,True,9,party_list
+83,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 9\สส 5_18.pdf,สส 5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลนาเกษม\หน่วยที่ 9,constituency,True,83,file_00083,True,5,constituency
+84,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 1\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 1,constituency,True,84,file_00084,True,6,constituency
+85,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 1\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 1,party_list,True,85,file_00085,True,11,party_list
+86,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 10\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 10,constituency,True,86,file_00086,True,6,constituency
+87,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 10\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 10,party_list,True,87,file_00087,True,10,party_list
+88,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 2\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 2,constituency,True,88,file_00088,True,5,constituency
+89,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 2\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 2,party_list,True,89,file_00089,True,10,party_list
+90,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 3\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 3,constituency,True,90,file_00090,True,6,constituency
+91,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 3\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 3,party_list,True,91,file_00091,True,6,party_list
+92,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 4\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 4,constituency,True,92,file_00092,True,6,constituency
+93,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 4\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 4,party_list,True,93,file_00093,True,3,party_list
+94,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 5\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 5,constituency,True,94,file_00094,True,6,constituency
+95,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 5\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 5,party_list,True,95,file_00095,True,11,party_list
+96,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 6\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 6,constituency,True,96,file_00096,True,5,constituency
+97,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 6\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 6,party_list,True,97,file_00097,True,11,party_list
+98,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 7\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 7,constituency,True,98,file_00098,True,6,constituency
+99,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 7\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 7,party_list,True,99,file_00099,True,11,party_list
+100,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 8\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 8,constituency,True,100,file_00100,True,6,constituency
+101,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 8\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 8,party_list,True,101,file_00101,True,11,party_list
+102,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 9\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 9,constituency,True,102,file_00102,True,6,constituency
+103,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 9\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลหนองอ้ม\หน่วยที่ 9,party_list,True,103,file_00103,True,7,party_list
+104,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 1\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 1,party_list,True,104,file_00104,True,11,party_list
+105,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 1\5_18.pdf,5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 1,constituency,True,105,file_00105,True,5,constituency
+106,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 10\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 10,party_list,True,106,file_00106,True,10,party_list
+107,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 10\5_18.pdf,5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 10,constituency,True,107,file_00107,True,6,constituency
+108,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 11\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 11,constituency,True,108,file_00108,True,6,constituency
+109,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 11\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 11,party_list,True,109,file_00109,True,10,party_list
+110,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 2\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 2,party_list,True,110,file_00110,True,10,party_list
+111,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 2\5_18.pdf,5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 2,constituency,True,111,file_00111,True,6,constituency
+112,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 3\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 3,party_list,True,112,file_00112,True,11,party_list
+113,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 3\5_18.pdf,5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 3,constituency,True,113,file_00113,True,5,constituency
+114,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 4\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 4,party_list,True,114,file_00114,True,11,party_list
+115,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 4\5_18.pdf,5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 4,constituency,True,115,file_00115,True,5,constituency
+116,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 5\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 5,party_list,True,116,file_00116,True,10,party_list
+117,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 5\5_18.pdf,5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 5,constituency,True,117,file_00117,True,4,constituency
+118,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 6\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 6,party_list,True,118,file_00118,True,11,party_list
+119,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 6\5_18.pdf,5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 6,constituency,True,119,file_00119,True,6,constituency
+120,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 7\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 7,party_list,True,120,file_00120,True,10,party_list
+121,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 7\5_18.pdf,5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 7,constituency,True,121,file_00121,True,6,constituency
+122,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 8\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 8,party_list,True,122,file_00122,True,11,party_list
+123,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 8\5_18.pdf,5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 8,constituency,True,123,file_00123,True,1,constituency
+124,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 9\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 9,constituency,True,124,file_00124,True,4,constituency
+125,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 9\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอทุ่งศรีอุดม\ตำบลโคกชำแระ\หน่วยที่ 9,party_list,True,125,file_00125,True,10,party_list
+126,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 1\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 1,party_list,True,126,file_00126,True,10,party_list
+127,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 1\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 1,constituency,True,127,file_00127,True,6,constituency
+128,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 10\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 10,party_list,True,128,file_00128,True,9,party_list
+129,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 10\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 10,constituency,True,129,file_00129,True,5,constituency
+130,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 11\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 11,party_list,True,130,file_00130,True,10,party_list
+131,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 11\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 11,constituency,True,131,file_00131,True,6,constituency
+132,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 12\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 12,party_list,True,132,file_00132,True,10,party_list
+133,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 12\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 12,constituency,True,133,file_00133,True,0,constituency
+134,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 13\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 13,party_list,True,134,file_00134,True,10,party_list
+135,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 13\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 13,constituency,True,135,file_00135,True,6,constituency
+136,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 2\สส.5-18\merged.pdf,merged.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 2\สส.5-18,constituency,True,136,file_00136,True,0,constituency
+137,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 2\สส.5-18(บช.)\merged.pdf,merged.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 2\สส.5-18(บช.),party_list,True,137,file_00137,True,24,party_list
+138,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 3\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 3,party_list,True,138,file_00138,True,9,party_list
+139,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 3\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 3,constituency,True,139,file_00139,True,6,constituency
+140,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 4\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 4,party_list,True,140,file_00140,True,29,party_list
+141,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 4\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 4,constituency,True,141,file_00141,True,6,constituency
+142,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 5\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 5,party_list,True,142,file_00142,True,8,party_list
+143,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 5\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 5,constituency,True,143,file_00143,True,6,constituency
+144,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 6\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 6,party_list,True,144,file_00144,True,10,party_list
+145,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 6\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 6,constituency,True,145,file_00145,True,6,constituency
+146,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 7\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 7,party_list,True,146,file_00146,True,10,party_list
+147,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 7\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 7,constituency,True,147,file_00147,True,5,constituency
+148,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 8\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 8,party_list,True,148,file_00148,True,10,party_list
+149,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 8\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 8,constituency,True,149,file_00149,True,5,constituency
+150,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 9\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 9,party_list,True,150,file_00150,True,10,party_list
+151,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 9\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลขี้เหล็ก\หน่วยที่ 9,constituency,True,151,file_00151,True,6,constituency
+152,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 1\ส.ส.5-18\1770561287186-ab924e45-d693-4bb3-b5db-904a0b75a143.pdf,1770561287186-ab924e45-d693-4bb3-b5db-904a0b75a143.pdf,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 1\ส.ส.5-18,constituency,True,152,file_00152,True,0,constituency
+153,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 10\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 10,party_list,True,153,file_00153,True,10,party_list
+154,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 10\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 10,constituency,True,154,file_00154,True,6,constituency
+155,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 11\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 11,party_list,True,155,file_00155,True,10,party_list
+156,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 11\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 11,constituency,True,156,file_00156,True,1,constituency
+157,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 12\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 12,party_list,True,157,file_00157,True,10,party_list
+158,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 12\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 12,constituency,True,158,file_00158,True,6,constituency
+159,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 13\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 13,party_list,True,159,file_00159,True,10,party_list
+160,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 13\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 13,constituency,True,160,file_00160,True,5,constituency
+161,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 14\ส.ส.5_18 .pdf,ส.ส.5_18 .pdf,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 14,constituency,True,161,file_00161,True,6,constituency
+162,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 14\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 14,party_list,True,162,file_00162,True,10,party_list
+163,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 15\ส.ส. 5_18.pdf,ส.ส. 5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 15,constituency,True,163,file_00163,True,6,constituency
+164,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 15\ส.ส.5_18บช.pdf,ส.ส.5_18บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลตาเกา\หน่วยที่ 15,party_list,True,164,file_00164,True,10,party_list
+165,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 1\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 1,party_list,True,165,file_00165,True,10,party_list
+166,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 1\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 1,constituency,True,166,file_00166,True,6,constituency
+167,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 10\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 10,party_list,True,167,file_00167,True,2,party_list
+168,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 10\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 10,constituency,True,168,file_00168,True,6,constituency
+169,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 11\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 11,party_list,True,169,file_00169,True,10,party_list
+170,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 11\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 11,constituency,True,170,file_00170,True,6,constituency
+171,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 12\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 12,party_list,True,171,file_00171,True,10,party_list
+172,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 12\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 12,constituency,True,172,file_00172,True,5,constituency
+173,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 2\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 2,party_list,True,173,file_00173,True,10,party_list
+174,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 2\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 2,constituency,True,174,file_00174,True,6,constituency
+175,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 3\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 3,party_list,True,175,file_00175,True,5,party_list
+176,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 3\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 3,constituency,True,176,file_00176,True,6,constituency
+177,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 4\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 4,party_list,True,177,file_00177,True,10,party_list
+178,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 4\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 4,constituency,True,178,file_00178,True,6,constituency
+179,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 5\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 5,constituency,True,179,file_00179,True,6,constituency
+180,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 5\ส.ส5_18(บช).pdf,ส.ส5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 5,party_list,True,180,file_00180,True,11,party_list
+181,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 6\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 6,party_list,True,181,file_00181,True,10,party_list
+182,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 6\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 6,constituency,True,182,file_00182,True,6,constituency
+183,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 7\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 7,party_list,True,183,file_00183,True,10,party_list
+184,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 7\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 7,constituency,True,184,file_00184,True,6,constituency
+185,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 8\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 8,party_list,True,185,file_00185,True,10,party_list
+186,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 8\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 8,constituency,True,186,file_00186,True,0,constituency
+187,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 9\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 9,party_list,True,187,file_00187,True,8,party_list
+188,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 9\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลโคกสะอาด\หน่วยที่ 9,constituency,True,188,file_00188,True,6,constituency
+189,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 1\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 1,constituency,True,189,file_00189,True,6,constituency
+190,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 1\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 1,party_list,True,190,file_00190,True,10,party_list
+191,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 10\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 10,constituency,True,191,file_00191,True,5,constituency
+192,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 10\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 10,party_list,True,192,file_00192,True,10,party_list
+193,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 11\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 11,constituency,True,193,file_00193,True,6,constituency
+194,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 11\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 11,party_list,True,194,file_00194,True,10,party_list
+195,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 12\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 12,party_list,True,195,file_00195,True,10,party_list
+196,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 12\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 12,constituency,True,196,file_00196,True,6,constituency
+197,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 13\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 13,constituency,True,197,file_00197,True,6,constituency
+198,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 13\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 13,party_list,True,198,file_00198,True,10,party_list
+199,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 14\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 14,party_list,True,199,file_00199,True,10,party_list
+200,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 14\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 14,constituency,True,200,file_00200,True,5,constituency
+201,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 15\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 15,party_list,True,201,file_00201,True,7,party_list
+202,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 15\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 15,constituency,True,202,file_00202,True,6,constituency
+203,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 2\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 2,party_list,True,203,file_00203,True,8,party_list
+204,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 2\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 2,constituency,True,204,file_00204,True,5,constituency
+205,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 3\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 3,constituency,True,205,file_00205,True,5,constituency
+206,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 3\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 3,party_list,True,206,file_00206,True,6,party_list
+207,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 4\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 4,party_list,True,207,file_00207,True,11,party_list
+208,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 4\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 4,constituency,True,208,file_00208,True,5,constituency
+209,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 5\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 5,party_list,True,209,file_00209,True,10,party_list
+210,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 5\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 5,constituency,True,210,file_00210,True,6,constituency
+211,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 6\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 6,party_list,True,211,file_00211,True,6,party_list
+212,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 6\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 6,constituency,True,212,file_00212,True,3,constituency
+213,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 7\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 7,party_list,True,213,file_00213,True,7,party_list
+214,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 7\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 7,constituency,True,214,file_00214,True,5,constituency
+215,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 8\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 8,party_list,True,215,file_00215,True,10,party_list
+216,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 8\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 8,constituency,True,216,file_00216,True,5,constituency
+217,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 9\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 9,party_list,True,217,file_00217,True,10,party_list
+218,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 9\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำขุ่น\ตำบลไพบูลย์\หน่วยที่ 9,constituency,True,218,file_00218,True,5,constituency
+219,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 1\ส.ส. 5_18 บช หน่วยที่ 1 ศาลาประชาคมหมู่บ้าน.pdf,ส.ส. 5_18 บช หน่วยที่ 1 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 1,party_list,True,219,file_00219,True,8,party_list
+220,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 1\ส.ส.5_18 หน่วยที่ 1 ศาลาประชาคมหมู่บ้าน_.pdf,ส.ส.5_18 หน่วยที่ 1 ศาลาประชาคมหมู่บ้าน_.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 1,constituency,True,220,file_00220,True,6,constituency
+221,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 13\ส.ส. 5  18 หน่วยที่ 13 ตำบลบกเปือย.pdf,ส.ส. 5  18 หน่วยที่ 13 ตำบลบกเปือย.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 13,constituency,True,221,file_00221,True,6,constituency
+222,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 14\ส.ส. 5  18 หน่วยที่14 ตำบลบุเปือย.pdf,ส.ส. 5  18 หน่วยที่14 ตำบลบุเปือย.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 14,constituency,True,222,file_00222,True,6,constituency
+223,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 15\ส.ส.5_18 บช หน่วยที่ 15.pdf,ส.ส.5_18 บช หน่วยที่ 15.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 15,party_list,True,223,file_00223,True,10,party_list
+224,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 15\ส.ส.5_18 หน่วยที่ 15.pdf,ส.ส.5_18 หน่วยที่ 15.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 15,constituency,True,224,file_00224,True,5,constituency
+225,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 16\ส.ส.5_18 บช หน่วยที่ 16.pdf,ส.ส.5_18 บช หน่วยที่ 16.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 16,party_list,True,225,file_00225,True,10,party_list
+226,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 16\ส.ส.5_18 หน่วยที่ 16.pdf,ส.ส.5_18 หน่วยที่ 16.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 16,constituency,True,226,file_00226,True,5,constituency
+227,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 2\ส.ส. 5_18 บช หน่วยที่ 2 ศาลาประชาคมหมู่บ้าน.pdf,ส.ส. 5_18 บช หน่วยที่ 2 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 2,party_list,True,227,file_00227,True,8,party_list
+228,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 2\ส.ส. 5_18 หน่วยที่ 2 ศาลาประชาคมหมู่บ้าน.pdf,ส.ส. 5_18 หน่วยที่ 2 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 2,constituency,True,228,file_00228,True,5,constituency
+229,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 3\ส.ส.5_18 บช หน่วยที่ 3 ศาลาประชาคมหมู่บ้าน.pdf,ส.ส.5_18 บช หน่วยที่ 3 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 3,party_list,True,229,file_00229,True,10,party_list
+230,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 3\ส.ส.5_18 หน่วยที่ 3 ศาลาประชาคมหมู่บ้าน.pdf,ส.ส.5_18 หน่วยที่ 3 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 3,constituency,True,230,file_00230,True,4,constituency
+231,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 4\ส.ส.5_18 บช หน่วยที่ 4 โรงเรียนบ้านแก้งโตน.pdf,ส.ส.5_18 บช หน่วยที่ 4 โรงเรียนบ้านแก้งโตน.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 4,party_list,True,231,file_00231,True,10,party_list
+232,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 4\ส.ส.5_18 หน่วยที่ 4 โรงเรียนบ้านแก้งโตน.pdf,ส.ส.5_18 หน่วยที่ 4 โรงเรียนบ้านแก้งโตน.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 4,constituency,True,232,file_00232,True,6,constituency
+233,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 5\ส.ส.5_18 บช หน่วยที่ 5 ศาลาประชาคมหมู่บ้าน.pdf,ส.ส.5_18 บช หน่วยที่ 5 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 5,party_list,True,233,file_00233,True,10,party_list
+234,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 6\ส.ส.5_18 หน่วยที่ 6 ศาลาประชาคมหมู่บ้าน.pdf,ส.ส.5_18 หน่วยที่ 6 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 6,constituency,True,234,file_00234,True,3,constituency
+235,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 7\ส.ส.5.18 บช หน่วยที่ 7 ศาลาประชาคมหมู่บ้าน.pdf,ส.ส.5.18 บช หน่วยที่ 7 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 7,party_list,True,235,file_00235,True,8,party_list
+236,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 7\ส.ส.5.18 หน่วยที่ 7 ศาลาประชาคมหมู่บ้าน.pdf,ส.ส.5.18 หน่วยที่ 7 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 7,constituency,True,236,file_00236,True,4,constituency
+237,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 8\ส.ส.5.18 บช หน่วยที่ 8 อาคารอเนกประสงค์โรงเรียน ตชด. บ้านเกษตรสมบูรณ์.pdf,ส.ส.5.18 บช หน่วยที่ 8 อาคารอเนกประสงค์โรงเรียน ตชด. บ้านเกษตรสมบูรณ์.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 8,party_list,True,237,file_00237,True,10,party_list
+238,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 8\ส.ส.5.18 หน่วยที่ 8 อาคารอเนกประสงค์โรงเรียน ตชด. บ้านเกษตรสมบูรณ์.pdf,ส.ส.5.18 หน่วยที่ 8 อาคารอเนกประสงค์โรงเรียน ตชด. บ้านเกษตรสมบูรณ์.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 8,constituency,True,238,file_00238,True,6,constituency
+239,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 9\ส.ส.5.18 บช หน่วยที่ 9 ศาลาประชาคมหมู่บ้าน.pdf,ส.ส.5.18 บช หน่วยที่ 9 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 9,party_list,True,239,file_00239,True,9,party_list
+240,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 9\ส.ส.5.18 หน่วยที่ 9 ศาลาประชาคมหมู่บ้าน.pdf,ส.ส.5.18 หน่วยที่ 9 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลบุเปือย\หน่วยที่ 9,constituency,True,240,file_00240,True,6,constituency
+241,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 1\ส.ส. 5_18.pdf,ส.ส. 5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 1,constituency,True,241,file_00241,True,5,constituency
+242,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 1\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 1,party_list,True,242,file_00242,True,10,party_list
+243,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 10\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 10,constituency,True,243,file_00243,True,6,constituency
+244,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 10\ส.ส5_18 บช.pdf,ส.ส5_18 บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 10,party_list,True,244,file_00244,True,10,party_list
+245,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 11\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 11,party_list,True,245,file_00245,True,10,party_list
+246,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 11\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 11,constituency,True,246,file_00246,True,0,constituency
+247,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 12\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 12,party_list,True,247,file_00247,True,10,party_list
+248,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 12\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 12,constituency,True,248,file_00248,True,5,constituency
+249,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 13\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 13,party_list,True,249,file_00249,True,10,party_list
+250,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 13\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 13,constituency,True,250,file_00250,True,5,constituency
+251,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 2\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 2,party_list,True,251,file_00251,True,10,party_list
+252,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 2\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 2,constituency,True,252,file_00252,True,6,constituency
+253,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 3\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 3,party_list,True,253,file_00253,True,10,party_list
+254,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 3\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 3,constituency,True,254,file_00254,True,5,constituency
+255,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 4\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 4,party_list,True,255,file_00255,True,10,party_list
+256,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 4\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 4,constituency,True,256,file_00256,True,5,constituency
+257,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 5\ส.ส.518 บช.pdf,ส.ส.518 บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 5,party_list,True,257,file_00257,True,0,party_list
+258,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 5\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 5,constituency,True,258,file_00258,True,6,constituency
+259,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 6\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 6,party_list,True,259,file_00259,True,4,party_list
+260,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 6\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 6,constituency,True,260,file_00260,True,5,constituency
+261,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 7\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 7,party_list,True,261,file_00261,True,9,party_list
+262,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 7\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 7,constituency,True,262,file_00262,True,5,constituency
+263,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 8\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 8,party_list,True,263,file_00263,True,3,party_list
+264,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 8\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 8,constituency,True,264,file_00264,True,6,constituency
+265,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 9\ส.ส.5_18 บช.pdf,ส.ส.5_18 บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 9,party_list,True,265,file_00265,True,10,party_list
+266,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 9\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยาง\หน่วยที่ 9,constituency,True,266,file_00266,True,6,constituency
+267,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 1\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 1,constituency,True,267,file_00267,True,6,constituency
+268,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 1\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 1,party_list,True,268,file_00268,True,9,party_list
+269,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 10\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 10,constituency,True,269,file_00269,True,6,constituency
+270,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 10\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 10,party_list,True,270,file_00270,True,10,party_list
+271,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 11\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 11,constituency,True,271,file_00271,True,5,constituency
+272,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 11\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 11,party_list,True,272,file_00272,True,10,party_list
+273,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 12\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 12,constituency,True,273,file_00273,True,6,constituency
+274,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 12\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 12,party_list,True,274,file_00274,True,8,party_list
+275,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 2\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 2,constituency,True,275,file_00275,True,6,constituency
+276,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 2\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 2,party_list,True,276,file_00276,True,10,party_list
+277,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 3\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 3,constituency,True,277,file_00277,True,6,constituency
+278,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 3\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 3,party_list,True,278,file_00278,True,11,party_list
+279,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 4\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 4,constituency,True,279,file_00279,True,6,constituency
+280,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 4\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 4,party_list,True,280,file_00280,True,10,party_list
+281,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 5\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 5,constituency,True,281,file_00281,True,6,constituency
+282,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 5\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 5,party_list,True,282,file_00282,True,11,party_list
+283,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 6\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 6,constituency,True,283,file_00283,True,5,constituency
+284,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 6\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 6,party_list,True,284,file_00284,True,10,party_list
+285,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 7\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 7,constituency,True,285,file_00285,True,6,constituency
+286,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 7\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 7,party_list,True,286,file_00286,True,10,party_list
+287,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 8\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 8,constituency,True,287,file_00287,True,5,constituency
+288,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 8\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 8,party_list,True,288,file_00288,True,11,party_list
+289,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 9\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 9,constituency,True,289,file_00289,True,4,constituency
+290,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 9\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลยางใหญ่\หน่วยที่ 9,party_list,True,290,file_00290,True,11,party_list
+291,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 1\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 1,party_list,True,291,file_00291,True,23,party_list
+292,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 1\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 1,constituency,True,292,file_00292,True,6,constituency
+293,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 1\สส 5_18 บช หน่วนที่ 1 อาคารอเนกประสงค์กองทุนหมู่บ้าน ￼.pdf,สส 5_18 บช หน่วนที่ 1 อาคารอเนกประสงค์กองทุนหมู่บ้าน ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 1,party_list,True,293,file_00293,True,10,party_list
+294,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 1\สส 5_18 หน่วยที่ 1 อาคารอเนกประสงค์กองทุนหมู่บ้าน ￼.pdf,สส 5_18 หน่วยที่ 1 อาคารอเนกประสงค์กองทุนหมู่บ้าน ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 1,constituency,True,294,file_00294,True,6,constituency
+295,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 10\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 10,party_list,True,295,file_00295,True,10,party_list
+296,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 10\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 10,constituency,True,296,file_00296,True,5,constituency
+297,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 10\สส 5_18 บช หน่วยที่ 10 ศาลาประชาคมหมู่บ้าน.pdf,สส 5_18 บช หน่วยที่ 10 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 10,party_list,True,297,file_00297,True,10,party_list
+298,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 10\สส 5_18 หน่วยที่ 10 ศาลาประชาคมหมู่บ้าน.pdf,สส 5_18 หน่วยที่ 10 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 10,constituency,True,298,file_00298,True,6,constituency
+299,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 11\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 11,party_list,True,299,file_00299,True,10,party_list
+300,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 11\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 11,constituency,True,300,file_00300,True,6,constituency
+301,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 11\สส 5_18 บช หน่วยที่ 11 ศาลาประชาคมศาลาคุ้ม 8￼.pdf,สส 5_18 บช หน่วยที่ 11 ศาลาประชาคมศาลาคุ้ม 8￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 11,party_list,True,301,file_00301,True,10,party_list
+302,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 11\สส 5_18 หน่วยที่ 11 ศาลาประชาคมศาลาคุ้ม 8￼.pdf,สส 5_18 หน่วยที่ 11 ศาลาประชาคมศาลาคุ้ม 8￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 11,constituency,True,302,file_00302,False,3,constituency
+303,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 12\สส 5_18 บช หน่วยที่ 12 ศาลาประชาคมบ้านหนองหญ้าช้าง.pdf,สส 5_18 บช หน่วยที่ 12 ศาลาประชาคมบ้านหนองหญ้าช้าง.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 12,party_list,True,303,file_00303,True,10,party_list
+304,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 12\สส 5_18 หน่วยที่ 12 ศาลาประชาคมบ้านหนองหญ้าช้าง ￼.pdf,สส 5_18 หน่วยที่ 12 ศาลาประชาคมบ้านหนองหญ้าช้าง ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 12,constituency,True,304,file_00304,True,5,constituency
+305,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 13\สส 5_18 บช หน่วยที่ 13 ศาลาประชาคมบ้านห้วยจันทร์แดง ￼.pdf,สส 5_18 บช หน่วยที่ 13 ศาลาประชาคมบ้านห้วยจันทร์แดง ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 13,party_list,True,305,file_00305,True,10,party_list
+306,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 13\สส 5_18 หน่วยที่ 13 ศาลาประชาคมบ้านห้วยจันทร์แดง ￼.pdf,สส 5_18 หน่วยที่ 13 ศาลาประชาคมบ้านห้วยจันทร์แดง ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 13,constituency,True,306,file_00306,True,2,constituency
+307,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 14\สส 5_18 บช หน่วยที่ 14 อาคารโรงอาหารโรงเรียนเจริญศึกษา ￼.pdf,สส 5_18 บช หน่วยที่ 14 อาคารโรงอาหารโรงเรียนเจริญศึกษา ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 14,party_list,True,307,file_00307,True,10,party_list
+308,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 14\สส 5_18 หน่วยที่ 14 อาคารโรงอาหารโรงเรียนเจริญศึกษา ￼.pdf,สส 5_18 หน่วยที่ 14 อาคารโรงอาหารโรงเรียนเจริญศึกษา ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 14,constituency,True,308,file_00308,True,5,constituency
+309,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 15\สส 5_18 บช หน่วยที่ 15 ศาลาประชาคมบ้านซำหวายพัฒนา ￼.pdf,สส 5_18 บช หน่วยที่ 15 ศาลาประชาคมบ้านซำหวายพัฒนา ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 15,party_list,True,309,file_00309,True,10,party_list
+310,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 15\สส 5_18 หน่วยที่ 15 ศาลาประชาคมบ้านซำหวายพัฒนา ￼.pdf,สส 5_18 หน่วยที่ 15 ศาลาประชาคมบ้านซำหวายพัฒนา ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 15,constituency,True,310,file_00310,True,5,constituency
+311,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 2\ส.ส. 5_18(บช).pdf,ส.ส. 5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 2,party_list,True,311,file_00311,True,10,party_list
+312,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 2\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 2,constituency,True,312,file_00312,True,6,constituency
+313,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 2\สส 5_18 บช  หน่วยที่ 2 ศาลาประชาคม.pdf,สส 5_18 บช  หน่วยที่ 2 ศาลาประชาคม.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 2,party_list,True,313,file_00313,True,10,party_list
+314,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 2\สส 5_18 หน่วยที่ 2 ศาลาประชาคม.pdf,สส 5_18 หน่วยที่ 2 ศาลาประชาคม.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 2,constituency,True,314,file_00314,True,6,constituency
+315,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 3\ส.ส 5_18.pdf,ส.ส 5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 3,constituency,True,315,file_00315,True,4,constituency
+316,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 3\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 3,party_list,True,316,file_00316,True,10,party_list
+317,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 3\สส 5_18 บช หน่วยที่ 3 ศาลาประชาคม ￼.pdf,สส 5_18 บช หน่วยที่ 3 ศาลาประชาคม ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 3,party_list,True,317,file_00317,True,10,party_list
+318,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 3\สส 5_18 หน่วยที่ 3 ศาลาประชาคม ￼.pdf,สส 5_18 หน่วยที่ 3 ศาลาประชาคม ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 3,constituency,True,318,file_00318,True,6,constituency
+319,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 4\ส.ส. 5_18(บช).pdf,ส.ส. 5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 4,party_list,True,319,file_00319,True,10,party_list
+320,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 4\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 4,constituency,True,320,file_00320,True,4,constituency
+321,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 4\สส 5_18 บช หน่วยที่ 4 ศาลาประชาคมหมู่บ้าน ￼.pdf,สส 5_18 บช หน่วยที่ 4 ศาลาประชาคมหมู่บ้าน ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 4,party_list,True,321,file_00321,True,10,party_list
+322,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 4\สส 5_18 หน่วยที่ 4 ศาลาประชาคมหมู่บ้าน.pdf,สส 5_18 หน่วยที่ 4 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 4,constituency,True,322,file_00322,True,6,constituency
+323,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 5\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 5,party_list,True,323,file_00323,True,10,party_list
+324,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 5\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 5,constituency,True,324,file_00324,True,0,constituency
+325,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 5\สส 5_18 บช หน่วยที่ 5 ศาลาประชาคมหมู่บ้าน.pdf,สส 5_18 บช หน่วยที่ 5 ศาลาประชาคมหมู่บ้าน.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 5,party_list,True,325,file_00325,True,10,party_list
+326,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 5\สส 5_18 หน่วยที่ 5 ศาลาประชาคมหมู่บ้าน ￼.pdf,สส 5_18 หน่วยที่ 5 ศาลาประชาคมหมู่บ้าน ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 5,constituency,True,326,file_00326,True,6,constituency
+327,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 6\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 6,party_list,True,327,file_00327,True,10,party_list
+328,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 6\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 6,constituency,True,328,file_00328,True,4,constituency
+329,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 6\สส 5_18 บช หน่วยที่ 6 เต็นท์.pdf,สส 5_18 บช หน่วยที่ 6 เต็นท์.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 6,party_list,True,329,file_00329,True,11,party_list
+330,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 6\สส 5_18 หน่วยที่ 6 เต็นท์ ￼.pdf,สส 5_18 หน่วยที่ 6 เต็นท์ ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 6,constituency,True,330,file_00330,True,6,constituency
+331,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 7\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 7,party_list,True,331,file_00331,True,10,party_list
+332,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 7\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 7,constituency,True,332,file_00332,True,5,constituency
+333,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 7\สส 5_18 บช หน่วยที่ 7 ศาลาประชาคมหมู่บ้านห้วยแก้ว.pdf,สส 5_18 บช หน่วยที่ 7 ศาลาประชาคมหมู่บ้านห้วยแก้ว.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 7,party_list,True,333,file_00333,True,10,party_list
+334,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 7\สส 5_18 หน่วยที่ 7 ศาลาประชาคมหมู่บ้านห้วยแก้ว ￼.pdf,สส 5_18 หน่วยที่ 7 ศาลาประชาคมหมู่บ้านห้วยแก้ว ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 7,constituency,True,334,file_00334,True,6,constituency
+335,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 8\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 8,party_list,True,335,file_00335,True,9,party_list
+336,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 8\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 8,constituency,True,336,file_00336,True,6,constituency
+337,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 8\สส 5_18 บช หน่วยที่ 8 ศาลาประชาคม.pdf,สส 5_18 บช หน่วยที่ 8 ศาลาประชาคม.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 8,party_list,True,337,file_00337,True,10,party_list
+338,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 8\สส 5_18 หน่วยที่ 8 ศาลาประชาคม.pdf,สส 5_18 หน่วยที่ 8 ศาลาประชาคม.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 8,constituency,True,338,file_00338,True,6,constituency
+339,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 9\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 9,party_list,True,339,file_00339,True,10,party_list
+340,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 9\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 9,constituency,True,340,file_00340,True,5,constituency
+341,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 9\สส 5_18 บช หน่วยที่ 9 ศาลาประชาคมบ้านสีวิเชียร ￼.pdf,สส 5_18 บช หน่วยที่ 9 ศาลาประชาคมบ้านสีวิเชียร ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 9,party_list,True,341,file_00341,True,10,party_list
+342,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 9\สส 5_18 หน่วยที่ 9 ศาลาประชาคมบ้านสีวิเชียร ￼.pdf,สส 5_18 หน่วยที่ 9 ศาลาประชาคมบ้านสีวิเชียร ￼.pdf,election_data\อำเภอน้ำยืน\ตำบลสีวิเชียร\หน่วยที่ 9,constituency,True,342,file_00342,True,6,constituency
+343,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 1\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 1,party_list,True,343,file_00343,True,10,party_list
+344,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 1\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 1,constituency,True,344,file_00344,True,5,constituency
+345,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 10\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 10,party_list,True,345,file_00345,True,9,party_list
+346,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 10\5_18.pdf,5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 10,constituency,True,346,file_00346,True,4,constituency
+347,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 11\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 11,party_list,True,347,file_00347,True,10,party_list
+348,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 11\5_18.pdf,5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 11,constituency,True,348,file_00348,True,5,constituency
+349,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 12\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 12,party_list,True,349,file_00349,True,10,party_list
+350,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 12\5_18.pdf,5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 12,constituency,True,350,file_00350,True,4,constituency
+351,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 13\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 13,party_list,True,351,file_00351,True,10,party_list
+352,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 13\5_18.pdf,5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 13,constituency,True,352,file_00352,True,5,constituency
+353,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 14\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 14,party_list,True,353,file_00353,True,9,party_list
+354,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 14\5_18.pdf,5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 14,constituency,True,354,file_00354,True,5,constituency
+355,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 2\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 2,party_list,True,355,file_00355,True,10,party_list
+356,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 2\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 2,constituency,True,356,file_00356,True,4,constituency
+357,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 3\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 3,party_list,True,357,file_00357,True,10,party_list
+358,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 3\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 3,constituency,True,358,file_00358,True,5,constituency
+359,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 4\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 4,party_list,True,359,file_00359,True,10,party_list
+360,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 4\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 4,constituency,True,360,file_00360,True,6,constituency
+361,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 5\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 5,party_list,True,361,file_00361,True,10,party_list
+362,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 5\5_18.pdf,5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 5,constituency,True,362,file_00362,True,4,constituency
+363,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 6\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 6,party_list,True,363,file_00363,True,4,party_list
+364,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 6\5_18.pdf,5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 6,constituency,True,364,file_00364,True,6,constituency
+365,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 7\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 7,party_list,True,365,file_00365,True,11,party_list
+366,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 7\5_18.pdf,5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 7,constituency,True,366,file_00366,True,6,constituency
+367,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 8\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 8,party_list,True,367,file_00367,True,10,party_list
+368,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 8\5_18.pdf,5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 8,constituency,True,368,file_00368,True,5,constituency
+369,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 9\5_18(บช).pdf,5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 9,party_list,True,369,file_00369,True,10,party_list
+370,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 9\5_18.pdf,5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลเก่าขาม\หน่วยที่ 9,constituency,True,370,file_00370,True,3,constituency
+371,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 1\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 1,party_list,True,371,file_00371,True,9,party_list
+372,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 1\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 1,constituency,True,372,file_00372,True,5,constituency
+373,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 10\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 10,party_list,True,373,file_00373,True,11,party_list
+374,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 10\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 10,constituency,True,374,file_00374,True,6,constituency
+375,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 11\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 11,party_list,True,375,file_00375,True,10,party_list
+376,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 11\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 11,constituency,True,376,file_00376,True,6,constituency
+377,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 12\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 12,party_list,True,377,file_00377,True,10,party_list
+378,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 12\ส.ส.5_18(บช)ศาลาประชาคม.pdf,ส.ส.5_18(บช)ศาลาประชาคม.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 12,party_list,True,378,file_00378,True,11,party_list
+379,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 12\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 12,constituency,True,379,file_00379,True,4,constituency
+380,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 12\ส.ส.5_18ศาลาประชาคม.pdf,ส.ส.5_18ศาลาประชาคม.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 12,constituency,True,380,file_00380,True,5,constituency
+381,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 13\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 13,party_list,True,381,file_00381,True,10,party_list
+382,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 13\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 13,constituency,True,382,file_00382,True,5,constituency
+383,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 2\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 2,party_list,True,383,file_00383,True,10,party_list
+384,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 2\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 2,constituency,True,384,file_00384,True,6,constituency
+385,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 3\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 3,party_list,True,385,file_00385,True,10,party_list
+386,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 3\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 3,constituency,True,386,file_00386,True,6,constituency
+387,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 4\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 4,party_list,True,387,file_00387,True,10,party_list
+388,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 4\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 4,constituency,True,388,file_00388,True,5,constituency
+389,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 5\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 5,party_list,True,389,file_00389,True,10,party_list
+390,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 5\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 5,constituency,True,390,file_00390,True,5,constituency
+391,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 6\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 6,party_list,True,391,file_00391,True,9,party_list
+392,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 6\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 6,constituency,True,392,file_00392,True,6,constituency
+393,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 7\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 7,party_list,True,393,file_00393,True,4,party_list
+394,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 7\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 7,constituency,True,394,file_00394,True,6,constituency
+395,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 8\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 8,party_list,True,395,file_00395,True,10,party_list
+396,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 8\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 8,constituency,True,396,file_00396,True,6,constituency
+397,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 9\ส.ส.5_18(บช).pdf,ส.ส.5_18(บช).pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 9,party_list,True,397,file_00397,True,10,party_list
+398,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 9\ส.ส.5_18.pdf,ส.ส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโซง\หน่วยที่ 9,constituency,True,398,file_00398,True,5,constituency
+399,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 1\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 1,constituency,True,399,file_00399,True,5,constituency
+400,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 1\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 1,party_list,True,400,file_00400,True,10,party_list
+401,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 10\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 10,constituency,True,401,file_00401,True,3,constituency
+402,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 10\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 10,party_list,True,402,file_00402,True,11,party_list
+403,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 11\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 11,constituency,True,403,file_00403,True,6,constituency
+404,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 11\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 11,party_list,True,404,file_00404,True,11,party_list
+405,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 12\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 12,constituency,True,405,file_00405,True,6,constituency
+406,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 12\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 12,party_list,True,406,file_00406,True,10,party_list
+407,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 13\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 13,constituency,True,407,file_00407,True,5,constituency
+408,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 13\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 13,party_list,True,408,file_00408,True,10,party_list
+409,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 14\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 14,constituency,True,409,file_00409,True,5,constituency
+410,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 14\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 14,party_list,True,410,file_00410,True,9,party_list
+411,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 15\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 15,constituency,True,411,file_00411,True,5,constituency
+412,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 15\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 15,party_list,True,412,file_00412,True,10,party_list
+413,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 16\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 16,constituency,True,413,file_00413,True,5,constituency
+414,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 16\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 16,party_list,True,414,file_00414,True,10,party_list
+415,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 17\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 17,constituency,True,415,file_00415,True,4,constituency
+416,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 17\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 17,party_list,True,416,file_00416,True,10,party_list
+417,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 18\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 18,constituency,True,417,file_00417,True,5,constituency
+418,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 18\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 18,party_list,True,418,file_00418,True,10,party_list
+419,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 19\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 19,constituency,True,419,file_00419,True,4,constituency
+420,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 19\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 19,party_list,True,420,file_00420,True,9,party_list
+421,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 2\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 2,constituency,True,421,file_00421,True,5,constituency
+422,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 2\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 2,party_list,True,422,file_00422,True,11,party_list
+423,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 20\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 20,constituency,True,423,file_00423,True,5,constituency
+424,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 20\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 20,party_list,True,424,file_00424,True,10,party_list
+425,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 21\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 21,constituency,True,425,file_00425,True,5,constituency
+426,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 21\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 21,party_list,True,426,file_00426,True,10,party_list
+427,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 22\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 22,constituency,True,427,file_00427,True,3,constituency
+428,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 22\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 22,party_list,True,428,file_00428,True,10,party_list
+429,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 23\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 23,constituency,True,429,file_00429,True,5,constituency
+430,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 23\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 23,party_list,True,430,file_00430,True,10,party_list
+431,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 24\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 24,constituency,True,431,file_00431,True,6,constituency
+432,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 24\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 24,party_list,True,432,file_00432,True,11,party_list
+433,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 25\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 25,constituency,True,433,file_00433,True,6,constituency
+434,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 25\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 25,party_list,True,434,file_00434,True,11,party_list
+435,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 3\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 3,constituency,True,435,file_00435,True,6,constituency
+436,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 3\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 3,party_list,True,436,file_00436,True,10,party_list
+437,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 4\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 4,constituency,True,437,file_00437,True,5,constituency
+438,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 4\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 4,party_list,True,438,file_00438,True,10,party_list
+439,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 5\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 5,constituency,True,439,file_00439,True,4,constituency
+440,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 5\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 5,party_list,True,440,file_00440,True,10,party_list
+441,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 6\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 6,constituency,True,441,file_00441,True,5,constituency
+442,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 6\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 6,party_list,True,442,file_00442,True,10,party_list
+443,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 7\สส 5_18.pdf,สส 5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 7,constituency,True,443,file_00443,True,6,constituency
+444,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 7\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 7,party_list,True,444,file_00444,True,10,party_list
+445,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 8\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 8,constituency,True,445,file_00445,True,5,constituency
+446,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 8\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 8,party_list,True,446,file_00446,True,8,party_list
+447,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 9\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 9,constituency,True,447,file_00447,True,4,constituency
+448,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 9\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอน้ำยืน\ตำบลโดมประดิษฐ์\หน่วยที่ 9,party_list,True,448,file_00448,True,10,party_list
+449,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 1\ส.ส.5ทับ18 (บช.) น.1.pdf,ส.ส.5ทับ18 (บช.) น.1.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 1,party_list,True,449,file_00449,True,10,party_list
+450,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 1\ส.ส.5ทับ18 (แบ่งเขต) น.1.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.1.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 1,constituency,True,450,file_00450,True,6,constituency
+451,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 2\ส.ส.5ทับ18 (บช.) น.2.pdf,ส.ส.5ทับ18 (บช.) น.2.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 2,party_list,True,451,file_00451,True,10,party_list
+452,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 2\ส.ส.5ทับ18 (แบ่งเขต) น.2.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.2.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 2,constituency,True,452,file_00452,True,5,constituency
+453,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 3\ส.ส.5ทับ18 (บช.) น.3.pdf,ส.ส.5ทับ18 (บช.) น.3.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 3,party_list,True,453,file_00453,True,10,party_list
+454,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 3\ส.ส.5ทับ18 (แบ่งเขต) น.3.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.3.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 3,constituency,True,454,file_00454,True,5,constituency
+455,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 4\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 4,party_list,True,455,file_00455,True,5,party_list
+456,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 4\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 4,constituency,True,456,file_00456,True,6,constituency
+457,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 5\ส.ส.5ทับ18 (บช.) น.5.pdf,ส.ส.5ทับ18 (บช.) น.5.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 5,party_list,True,457,file_00457,True,10,party_list
+458,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 5\ส.ส.5ทับ18 (แบ่งเขต) น.5.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.5.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 5,constituency,True,458,file_00458,True,6,constituency
+459,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 6\ส.ส.5ทับ18 (บช.) น.6.pdf,ส.ส.5ทับ18 (บช.) น.6.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 6,party_list,True,459,file_00459,True,10,party_list
+460,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 6\ส.ส.5ทับ18 (แบ่งเขต) น.6.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.6.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 6,constituency,True,460,file_00460,True,6,constituency
+461,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 7\ส.ส.5ทับ18 (บช.) น.7.pdf,ส.ส.5ทับ18 (บช.) น.7.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 7,party_list,True,461,file_00461,True,9,party_list
+462,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 7\ส.ส.5ทับ18 (แบ่งเขต) น.7.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.7.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 7,constituency,True,462,file_00462,True,6,constituency
+463,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 8\ส.ส.5ทับ18 (บช.) น.8.pdf,ส.ส.5ทับ18 (บช.) น.8.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 8,party_list,True,463,file_00463,True,10,party_list
+464,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 8\ส.ส.5ทับ18 (แบ่งเขต) น.8.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.8.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 8,constituency,True,464,file_00464,True,4,constituency
+465,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 9\ส.ส.5ทับ18 (บช.) น.9.pdf,ส.ส.5ทับ18 (บช.) น.9.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 9,party_list,True,465,file_00465,True,9,party_list
+466,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 9\ส.ส.5ทับ18 (แบ่งเขต) น.9.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.9.pdf,election_data\อำเภอสำโรง\ตำบลขามป้อม\หน่วยที่ 9,constituency,True,466,file_00466,True,5,constituency
+467,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 1\ส.ส.5.18 (บช.) น.1.pdf,ส.ส.5.18 (บช.) น.1.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 1,party_list,True,467,file_00467,True,10,party_list
+468,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 1\ส.ส.5ทับ18 (แบ่งเขต) น.1.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.1.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 1,constituency,True,468,file_00468,True,4,constituency
+469,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 10\ส.ส.5.18(บช.)น.10.pdf,ส.ส.5.18(บช.)น.10.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 10,party_list,True,469,file_00469,True,8,party_list
+470,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 10\ส.ส.5ทับ18 (แบ่งเขต) น.10.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.10.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 10,constituency,True,470,file_00470,True,6,constituency
+471,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 11\ส.ส.5.18(บช.)น.11.pdf,ส.ส.5.18(บช.)น.11.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 11,party_list,True,471,file_00471,True,10,party_list
+472,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 11\ส.ส.5ทับ18(แบ่งเขต) น.11.pdf,ส.ส.5ทับ18(แบ่งเขต) น.11.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 11,constituency,True,472,file_00472,True,6,constituency
+473,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 12\ส.ส.5.18(บช.)น.12.pdf,ส.ส.5.18(บช.)น.12.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 12,party_list,True,473,file_00473,True,10,party_list
+474,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 12\ส.ส.5ทับ18(แบ่งเขต) น.12.pdf,ส.ส.5ทับ18(แบ่งเขต) น.12.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 12,constituency,True,474,file_00474,True,6,constituency
+475,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 13\ส.ส.5.18(บช.)น.13.pdf,ส.ส.5.18(บช.)น.13.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 13,party_list,True,475,file_00475,True,10,party_list
+476,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 13\ส.ส.5ทับ18(แบ่งเขต) น.13.pdf,ส.ส.5ทับ18(แบ่งเขต) น.13.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 13,constituency,True,476,file_00476,True,6,constituency
+477,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 14\ส.ส.5.18(บช.)น.14.pdf,ส.ส.5.18(บช.)น.14.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 14,party_list,True,477,file_00477,True,10,party_list
+478,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 14\ส.ส.5ทับ18(แบ่งเขต) น.14.pdf,ส.ส.5ทับ18(แบ่งเขต) น.14.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 14,constituency,True,478,file_00478,True,6,constituency
+479,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 15\ส.ส.5.18(บช.)น.15.pdf,ส.ส.5.18(บช.)น.15.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 15,party_list,True,479,file_00479,True,10,party_list
+480,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 15\ส.ส.5ทับ18(แบ่งเขต) น.15.pdf,ส.ส.5ทับ18(แบ่งเขต) น.15.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 15,constituency,True,480,file_00480,True,6,constituency
+481,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 16\ส.ส.5.18(บช.)น.16.pdf,ส.ส.5.18(บช.)น.16.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 16,party_list,True,481,file_00481,True,10,party_list
+482,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 16\ส.ส.5ทับ18(แบ่งเขต) น.16.pdf,ส.ส.5ทับ18(แบ่งเขต) น.16.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 16,constituency,True,482,file_00482,True,6,constituency
+483,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 17\ส.ส.5.18(บช.)น.17.pdf,ส.ส.5.18(บช.)น.17.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 17,party_list,True,483,file_00483,True,10,party_list
+484,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 17\ส.ส.5ทับ18(แบ่งเขต)น.17.pdf,ส.ส.5ทับ18(แบ่งเขต)น.17.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 17,constituency,True,484,file_00484,True,4,constituency
+485,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 2\ส.ส.5.18(บช.)น.2.pdf,ส.ส.5.18(บช.)น.2.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 2,party_list,True,485,file_00485,True,10,party_list
+486,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 2\ส.ส.5ทับ18 (แบ่งเขต) น.2.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.2.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 2,constituency,True,486,file_00486,True,6,constituency
+487,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 3\ส.ส.5.18(บช.)น.3.pdf,ส.ส.5.18(บช.)น.3.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 3,party_list,True,487,file_00487,True,2,party_list
+488,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 3\ส.ส.5ทับ18 (แบ่งเขต) น.3.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.3.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 3,constituency,True,488,file_00488,True,6,constituency
+489,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 4\ส.ส.5.18(บช.)น.4.pdf,ส.ส.5.18(บช.)น.4.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 4,party_list,True,489,file_00489,True,10,party_list
+490,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 4\ส.ส.5ทับ18 (แบ่งเขต) น.4.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.4.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 4,constituency,True,490,file_00490,True,6,constituency
+491,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 5\สส 5_18 บช หน่วยที่ 5.pdf,สส 5_18 บช หน่วยที่ 5.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 5,party_list,True,491,file_00491,True,10,party_list
+492,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 5\สส 5_18 หน่วยที่ 5.pdf,สส 5_18 หน่วยที่ 5.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 5,constituency,True,492,file_00492,True,6,constituency
+493,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 6\ส.ส.5.18(บช.)น.6.pdf,ส.ส.5.18(บช.)น.6.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 6,party_list,True,493,file_00493,True,10,party_list
+494,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 6\ส.ส.5ทับ18 (แบ่งเขต) น.6.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.6.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 6,constituency,True,494,file_00494,True,7,constituency
+495,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 7\ส.ส.5.18(บช.)น.7.pdf,ส.ส.5.18(บช.)น.7.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 7,party_list,True,495,file_00495,True,9,party_list
+496,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 7\ส.ส.5ทับ18 (แบ่งเขต) น.7.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.7.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 7,constituency,True,496,file_00496,True,6,constituency
+497,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 8\ส.ส.5.18(บช.)น.8.pdf,ส.ส.5.18(บช.)น.8.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 8,party_list,True,497,file_00497,True,10,party_list
+498,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 8\ส.ส.5ทับ18 (แบ่งเขต) น.8.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.8.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 8,constituency,True,498,file_00498,True,4,constituency
+499,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 9\ส.ส.5.18(บช.)น.9.pdf,ส.ส.5.18(บช.)น.9.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 9,party_list,True,499,file_00499,True,10,party_list
+500,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 9\ส.ส.5ทับ18 (แบ่งเขต) น.9.pdf,ส.ส.5ทับ18 (แบ่งเขต) น.9.pdf,election_data\อำเภอสำโรง\ตำบลค้อน้อย\หน่วยที่ 9,constituency,True,500,file_00500,True,5,constituency
+501,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 1\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 1,party_list,True,501,file_00501,True,10,party_list
+502,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 1\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 1,constituency,True,502,file_00502,True,5,constituency
+503,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 10\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 10,party_list,True,503,file_00503,True,10,party_list
+504,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 10\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 10,constituency,True,504,file_00504,True,5,constituency
+505,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 11\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 11,party_list,True,505,file_00505,True,11,party_list
+506,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 11\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 11,constituency,True,506,file_00506,True,5,constituency
+507,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 12\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 12,party_list,True,507,file_00507,True,8,party_list
+508,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 12\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 12,constituency,True,508,file_00508,True,5,constituency
+509,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 2\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 2,party_list,True,509,file_00509,True,10,party_list
+510,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 2\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 2,constituency,True,510,file_00510,True,4,constituency
+511,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 3\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 3,party_list,True,511,file_00511,True,10,party_list
+512,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 3\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 3,constituency,True,512,file_00512,True,6,constituency
+513,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 4\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 4,party_list,True,513,file_00513,True,10,party_list
+514,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 4\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 4,constituency,True,514,file_00514,True,5,constituency
+515,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 5\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 5,party_list,True,515,file_00515,True,10,party_list
+516,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 5\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 5,constituency,True,516,file_00516,True,6,constituency
+517,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 6\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 6,party_list,True,517,file_00517,True,7,party_list
+518,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 6\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 6,constituency,True,518,file_00518,True,6,constituency
+519,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 7\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 7,party_list,True,519,file_00519,True,10,party_list
+520,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 7\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 7,constituency,True,520,file_00520,True,5,constituency
+521,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 8\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 8,party_list,True,521,file_00521,True,9,party_list
+522,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 8\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 8,constituency,True,522,file_00522,True,5,constituency
+523,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 9\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 9,party_list,True,523,file_00523,True,10,party_list
+524,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 9\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลหนองไฮ\หน่วยที่ 9,constituency,True,524,file_00524,True,6,constituency
+525,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 1\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 1,party_list,True,525,file_00525,True,10,party_list
+526,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 1\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 1,constituency,True,526,file_00526,True,6,constituency
+527,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 10\สส 5_18 บช.pdf,สส 5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 10,party_list,True,527,file_00527,True,10,party_list
+528,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 10\สส 5_18.pdf,สส 5_18.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 10,constituency,True,528,file_00528,True,5,constituency
+529,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 11\สส 5_18 บช.pdf,สส 5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 11,party_list,True,529,file_00529,True,11,party_list
+530,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 11\สส 5_18.pdf,สส 5_18.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 11,constituency,True,530,file_00530,True,4,constituency
+531,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 12\สส 5_18.pdf,สส 5_18.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 12,constituency,True,531,file_00531,True,4,constituency
+532,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 12\สส 5_18บช.pdf,สส 5_18บช.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 12,party_list,True,532,file_00532,True,10,party_list
+533,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 2\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 2,party_list,True,533,file_00533,True,10,party_list
+534,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 2\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 2,constituency,True,534,file_00534,True,6,constituency
+535,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 3\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 3,constituency,True,535,file_00535,True,3,constituency
+536,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 3\สส.5_18บช.pdf,สส.5_18บช.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 3,party_list,True,536,file_00536,True,10,party_list
+537,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 4\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 4,party_list,True,537,file_00537,True,9,party_list
+538,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 4\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 4,constituency,True,538,file_00538,True,6,constituency
+539,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 5\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 5,party_list,True,539,file_00539,True,11,party_list
+540,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 5\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 5,constituency,True,540,file_00540,True,5,constituency
+541,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 6\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 6,party_list,True,541,file_00541,True,10,party_list
+542,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 6\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 6,constituency,True,542,file_00542,True,6,constituency
+543,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 7\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 7,party_list,True,543,file_00543,True,10,party_list
+544,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 7\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 7,constituency,True,544,file_00544,True,6,constituency
+545,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 8\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 8,party_list,True,545,file_00545,True,10,party_list
+546,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 8\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 8,constituency,True,546,file_00546,True,6,constituency
+547,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 9\สส 5_18 บช.pdf,สส 5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 9,party_list,True,547,file_00547,True,10,party_list
+548,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 9\สส 5_18.pdf,สส 5_18.pdf,election_data\อำเภอสำโรง\ตำบลโคกสว่าง\หน่วยที่ 9,constituency,True,548,file_00548,True,5,constituency
+549,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 1\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 1,party_list,True,549,file_00549,True,11,party_list
+550,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 1\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 1,constituency,True,550,file_00550,True,5,constituency
+551,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 10\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 10,party_list,True,551,file_00551,True,10,party_list
+552,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 10\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 10,constituency,True,552,file_00552,True,5,constituency
+553,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 2\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 2,party_list,True,553,file_00553,True,10,party_list
+554,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 2\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 2,constituency,True,554,file_00554,True,5,constituency
+555,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 3\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 3,party_list,True,555,file_00555,True,10,party_list
+556,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 3\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 3,constituency,True,556,file_00556,True,5,constituency
+557,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 4\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 4,party_list,True,557,file_00557,True,10,party_list
+558,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 4\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 4,constituency,True,558,file_00558,True,3,constituency
+559,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 5\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 5,party_list,True,559,file_00559,True,10,party_list
+560,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 5\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 5,constituency,True,560,file_00560,True,5,constituency
+561,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 6\สส 5_18 บช.pdf,สส 5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 6,party_list,True,561,file_00561,True,9,party_list
+562,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 6\สส 5_18.pdf,สส 5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 6,constituency,True,562,file_00562,True,5,constituency
+563,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 7\ส.ส5_18.pdf,ส.ส5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 7,constituency,True,563,file_00563,True,6,constituency
+564,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 7\สส 5_18 บช.pdf,สส 5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 7,party_list,True,564,file_00564,True,11,party_list
+565,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 8\สส 5_18.pdf,สส 5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 8,constituency,True,565,file_00565,True,6,constituency
+566,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 8\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 8,party_list,True,566,file_00566,True,10,party_list
+567,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 9\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 9,party_list,True,567,file_00567,True,11,party_list
+568,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 9\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกลาง\หน่วยที่ 9,constituency,True,568,file_00568,True,5,constituency
+569,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 1\สส 5_18 บช.pdf,สส 5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 1,party_list,True,569,file_00569,True,11,party_list
+570,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 1\สส5_18.pdf,สส5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 1,constituency,True,570,file_00570,False,1,constituency
+571,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 10\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 10,party_list,True,571,file_00571,True,10,party_list
+572,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 10\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 10,constituency,True,572,file_00572,True,3,constituency
+573,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 11\สส. 5_18 บช.pdf,สส. 5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 11,party_list,True,573,file_00573,True,10,party_list
+574,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 11\สส.5_18 .pdf,สส.5_18 .pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 11,constituency,True,574,file_00574,True,5,constituency
+575,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 12\สส 5_18 บช หน่วยที่ 12.pdf,สส 5_18 บช หน่วยที่ 12.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 12,party_list,True,575,file_00575,True,10,party_list
+576,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 12\สส 5_18 หน่วยที่ 12.pdf,สส 5_18 หน่วยที่ 12.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 12,constituency,True,576,file_00576,True,6,constituency
+577,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 13\สส 5_18 บช หน่วยที่ 13.pdf,สส 5_18 บช หน่วยที่ 13.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 13,party_list,True,577,file_00577,True,10,party_list
+578,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 13\สส 5_18 หน่วยที่ 13.pdf,สส 5_18 หน่วยที่ 13.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 13,constituency,True,578,file_00578,True,5,constituency
+579,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 2\สส5_18 บช.pdf,สส5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 2,party_list,True,579,file_00579,True,8,party_list
+580,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 2\สส5_18.pdf,สส5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 2,constituency,True,580,file_00580,True,6,constituency
+581,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 3\สส5_18 บช.pdf,สส5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 3,party_list,True,581,file_00581,True,10,party_list
+582,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 3\สส5_18.pdf,สส5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 3,constituency,True,582,file_00582,True,5,constituency
+583,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 4\สส 5_18 บช.pdf,สส 5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 4,party_list,True,583,file_00583,True,11,party_list
+584,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 4\สส 5_18.pdf,สส 5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 4,constituency,True,584,file_00584,True,5,constituency
+585,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 5\สส 5_18 บช.pdf,สส 5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 5,party_list,True,585,file_00585,True,9,party_list
+586,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 5\สส 5_18.pdf,สส 5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 5,constituency,True,586,file_00586,True,2,constituency
+587,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 6\สส 5_18 บช หน่วยที่ 6.pdf,สส 5_18 บช หน่วยที่ 6.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 6,party_list,True,587,file_00587,True,10,party_list
+588,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 6\สส 5_18 หน่วยที่ 6.pdf,สส 5_18 หน่วยที่ 6.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 6,constituency,True,588,file_00588,True,4,constituency
+589,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 7\สส 5_18 บช หน่วยที่ 7.pdf,สส 5_18 บช หน่วยที่ 7.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 7,party_list,True,589,file_00589,True,10,party_list
+590,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 7\สส 5_18 หน่วยที่ 7.pdf,สส 5_18 หน่วยที่ 7.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 7,constituency,True,590,file_00590,True,6,constituency
+591,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 8\สส.5_18 บช.pdf,สส.5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 8,party_list,True,591,file_00591,True,10,party_list
+592,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 8\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 8,constituency,True,592,file_00592,True,6,constituency
+593,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 9\สส 5_18 บช.pdf,สส 5_18 บช.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 9,party_list,True,593,file_00593,True,10,party_list
+594,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 9\สส.5_18.pdf,สส.5_18.pdf,election_data\อำเภอสำโรง\ตำบลโนนกาเล็น\หน่วยที่ 9,constituency,True,594,file_00594,True,4,constituency
+595,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 1\5ทับ 18 บช.pdf,5ทับ 18 บช.pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 1,party_list,True,595,file_00595,True,10,party_list
+596,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 1\5ทับ18 (1).pdf,5ทับ18 (1).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 1,constituency,True,596,file_00596,True,5,constituency
+597,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 10\5ทับ18 (13).pdf,5ทับ18 (13).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 10,constituency,True,597,file_00597,True,6,constituency
+598,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 10\5ทับ18 บช (7).pdf,5ทับ18 บช (7).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 10,party_list,True,598,file_00598,True,10,party_list
+599,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 11\5_18 บช.pdf,5_18 บช.pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 11,party_list,True,599,file_00599,True,10,party_list
+600,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 11\5_18.pdf,5_18.pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 11,constituency,True,600,file_00600,True,6,constituency
+601,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 12\5_18.pdf,5_18.pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 12,constituency,True,601,file_00601,True,6,constituency
+602,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 12\5_18บช.pdf,5_18บช.pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 12,party_list,True,602,file_00602,True,10,party_list
+603,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 13\5_18 บช.pdf,5_18 บช.pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 13,party_list,True,603,file_00603,True,10,party_list
+604,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 13\5_18.pdf,5_18.pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 13,constituency,True,604,file_00604,True,4,constituency
+605,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 14\5_18 .pdf,5_18 .pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 14,constituency,True,605,file_00605,True,6,constituency
+606,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 14\5_18 บช.pdf,5_18 บช.pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 14,party_list,True,606,file_00606,True,10,party_list
+607,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 15\5ทับ18 บช.pdf,5ทับ18 บช.pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 15,party_list,True,607,file_00607,True,10,party_list
+608,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 15\5ทับ18.pdf,5ทับ18.pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 15,constituency,True,608,file_00608,True,6,constituency
+609,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 2\5ทับ 18 pdf.pdf,5ทับ 18 pdf.pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 2,constituency,True,609,file_00609,True,5,constituency
+610,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 2\5ทับ18 บช (1).pdf,5ทับ18 บช (1).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 2,party_list,True,610,file_00610,True,11,party_list
+611,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 3\5ทับ18 (4).pdf,5ทับ18 (4).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 3,constituency,True,611,file_00611,True,6,constituency
+612,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 3\5ทับ18 บช (2).pdf,5ทับ18 บช (2).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 3,party_list,True,612,file_00612,True,5,party_list
+613,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 4\5ทับ18 2 (2).pdf,5ทับ18 2 (2).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 4,constituency,True,613,file_00613,True,0,constituency
+614,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 4\5ทับ18 บช 2.pdf,5ทับ18 บช 2.pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 4,party_list,True,614,file_00614,True,20,party_list
+615,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 5\5ทับ18 2 (3).pdf,5ทับ18 2 (3).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 5,constituency,True,615,file_00615,True,0,constituency
+616,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 5\5ทับ18 บช (3).pdf,5ทับ18 บช (3).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 5,party_list,True,616,file_00616,True,11,party_list
+617,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 6\5ทับ18 (7).pdf,5ทับ18 (7).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 6,constituency,True,617,file_00617,True,5,constituency
+618,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 6\5ทับ18 บช (4).pdf,5ทับ18 บช (4).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 6,party_list,True,618,file_00618,True,10,party_list
+619,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 7\5ทับ18 (9).pdf,5ทับ18 (9).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 7,constituency,True,619,file_00619,True,6,constituency
+620,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 7\5ทับ18 บช (5).pdf,5ทับ18 บช (5).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 7,party_list,True,620,file_00620,True,11,party_list
+621,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 8\5ทับ 18 บช (1).pdf,5ทับ 18 บช (1).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 8,party_list,True,621,file_00621,True,10,party_list
+622,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 8\5ทับ18 (11).pdf,5ทับ18 (11).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 8,constituency,True,622,file_00622,True,6,constituency
+623,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 9\5ทับ18 (12).pdf,5ทับ18 (12).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 9,constituency,True,623,file_00623,True,6,constituency
+624,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 9\5ทับ18 บช (6).pdf,5ทับ18 บช (6).pdf,election_data\อำเภอเดชอุดม (เฉพาะตำบลทุ่งเทิง)\หน่วยที่ 9,party_list,True,624,file_00624,True,10,party_list
